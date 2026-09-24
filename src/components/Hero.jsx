@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="hero__copy">
         <p className="hero__eyebrow">Analytical &amp; Synthetic Chemistry</p>
         <h1>
-          What reactions <span className="hero__accent">become</span> results.
+          Where reactions <span className="hero__accent">become</span> results.
         </h1>
         <p className="hero__lede">
           Vertex Lab runs synthesis, spectroscopy, and formulation work for research
